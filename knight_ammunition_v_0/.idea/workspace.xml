@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fd8dd0b-f5cd-4fba-83f1-00571cec8e93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__org_jetbrains_annotations_23_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/MigLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/miglayout_core_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/miglayout_swing_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/libraries/mysql_connector_j_8_0_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/knight_ammunition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/dao/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/dao/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/gui/SwingView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/gui/SwingView.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knight_ammunition_v_1/knight_ammunition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/AbstractCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/CraftAmmunitionCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/CraftAmmunitionCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/DeleteAmmunitionCommandById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/DeleteAmmunitionCommandById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/EmptyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/EmptyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/ExitProgramCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/ExitProgramCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintAllAmmunitionInCostRangeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintAllAmmunitionInCostRangeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintAllAmmunitionSortedByWeightCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintAllAmmunitionSortedByWeightCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintAmmunitionByIdCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintAmmunitionByIdCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintTotalAmmunitionCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintTotalAmmunitionCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintTotalAmmunitionCostCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/command/PrintTotalAmmunitionCostCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/controller/AmmunitionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/controller/AmmunitionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/dao/AbstractDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/dao/AbstractDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/dao/AmmunitionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/dao/AmmunitionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Ammunition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Ammunition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/AmmunitionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/AmmunitionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/AmmunitionFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/AmmunitionFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/ChestPlate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/ChestPlate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Helmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Helmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Shield.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Shield.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/Sword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/VisionLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/entity/VisionLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/service/AmmunitionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/service/AmmunitionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/utils/RandomGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/utils/RandomGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/view/AmmunitionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/src/main/java/org/example/view/AmmunitionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/AbstractCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/ConsoleControlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/CraftAmmunitionCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/DeleteAmmunitionCommandByIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/EmptyCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/ExitProgramCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/PrintAllAmmunitionInCostRangeCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/PrintAllAmmunitionSortedByWeightCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/PrintAmmunitionByIdCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/PrintTotalAmmunitionCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/command/PrintTotalAmmunitionCostCommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/controller/AmmunitionControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/dao/AmmunitionDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/entity/AmmunitionFactoryImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/service/AmmunitionServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/singleton/ScannerSingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/src/test/java/org/example/utils/RandomGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/AbstractCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/AbstractCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/ConsoleControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/ConsoleControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/CraftAmmunitionCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/CraftAmmunitionCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/DeleteAmmunitionCommandById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/DeleteAmmunitionCommandById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/EmptyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/EmptyCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/ExitProgramCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/ExitProgramCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintAllAmmunitionInCostRangeCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintAllAmmunitionInCostRangeCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintAllAmmunitionSortedByWeightCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintAllAmmunitionSortedByWeightCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintAmmunitionByIdCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintAmmunitionByIdCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintTotalAmmunitionCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintTotalAmmunitionCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintTotalAmmunitionCostCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/command/PrintTotalAmmunitionCostCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/controller/AmmunitionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/controller/AmmunitionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/dao/AbstractDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/dao/AbstractDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/dao/AmmunitionDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/dao/AmmunitionDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/dao/IDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/dao/IDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Ammunition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Ammunition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/AmmunitionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/AmmunitionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/AmmunitionFactoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/AmmunitionFactoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/ChestPlate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/ChestPlate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Entity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Helmet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Helmet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Shield.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Shield.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Sword.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/Sword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/VisionLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/entity/VisionLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/service/AmmunitionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/service/AmmunitionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/singleton/ScannerSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/singleton/ScannerSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/utils/RandomGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/utils/RandomGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/utils/ReflectionUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/utils/ReflectionUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/view/AmmunitionView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../knight_ammunition/target/classes/org/example/view/AmmunitionView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/knight_ammunition-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/AbstractCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/ConsoleControlTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/CraftAmmunitionCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/DeleteAmmunitionCommandByIdTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/EmptyCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/ExitProgramCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/PrintAllAmmunitionInCostRangeCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/PrintAllAmmunitionSortedByWeightCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/PrintAmmunitionByIdCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/PrintTotalAmmunitionCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/command/PrintTotalAmmunitionCostCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/controller/AmmunitionControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/dao/AmmunitionDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/entity/AmmunitionFactoryImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/service/AmmunitionServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/singleton/ScannerSingletonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knight_ammunition/target/test-classes/org/example/utils/RandomGeneratorTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HUQJl7YsTJaBh0qC6m3t9NUQgZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/artemrepej/Documents/labs_ap/knight_ammunition_v_0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="org.example.dao.AbstractDao" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.command" />
+      <recent name="org.example.controller" />
+      <recent name="org.example.entity" />
+      <recent name="org.example.service" />
+      <recent name="org.example.singleton" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.command" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in knight_ammunition_v_0">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="knight_ammunition_v_0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in knight_ammunition_v_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="knight_ammunition_v_0" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmmunitionFactoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="knight_ammunition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.example.entity.AmmunitionFactoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleControlTest.setCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="knight_ammunition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.command" />
+      <option name="MAIN_CLASS_NAME" value="org.example.command.ConsoleControlTest" />
+      <option name="METHOD_NAME" value="setCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.service in knight_ammunition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="knight_ammunition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.service" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.All in knight_ammunition_v_0" />
+      <item itemvalue="JUnit.AmmunitionFactoryImplTest" />
+      <item itemvalue="JUnit.ConsoleControlTest.setCommand" />
+      <item itemvalue="JUnit.org.example.service in knight_ammunition" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in knight_ammunition_v_0" />
+        <item itemvalue="JUnit.org.example.service in knight_ammunition" />
+        <item itemvalue="JUnit.ConsoleControlTest.setCommand" />
+        <item itemvalue="JUnit.AmmunitionFactoryImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fd8dd0b-f5cd-4fba-83f1-00571cec8e93" name="Changes" comment="" />
+      <created>1668337115404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668337115404</updated>
+      <workItem from="1668337116842" duration="23676000" />
+      <workItem from="1668366637252" duration="6707000" />
+      <workItem from="1668374947710" duration="1063000" />
+      <workItem from="1668408394872" duration="4489000" />
+      <workItem from="1668430908835" duration="8149000" />
+      <workItem from="1668445333990" duration="6613000" />
+      <workItem from="1668496230584" duration="6796000" />
+      <workItem from="1668503097887" duration="6552000" />
+      <workItem from="1668511123476" duration="2223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/command/ExitProgramCommand.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/knight_ammunition$All_in_knight_ammunition.ic" NAME="All in knight_ammunition Coverage Results" MODIFIED="1669021240840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/knight_ammunition$App.ic" NAME="App Coverage Results" MODIFIED="1669021096778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
